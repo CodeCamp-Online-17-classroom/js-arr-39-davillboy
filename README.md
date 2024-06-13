@@ -12,3 +12,4 @@ const array = ['APPLE', 'oRanGE', 'PEACH', 'PaPAYA'];
 const array = ['Krabi', 'Chonburi', 'Buriram', 'Saraburi','Phrae'];
 // ค่าที่มีคำว่า buri เป็นส่วนประกอบโดยไม่สนใจตัวพิมพ์เล็กหรือตัวพิมพ์ใหญ่
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
